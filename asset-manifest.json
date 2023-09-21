@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hatabun/static/css/main.74ab4ee2.css",
+    "main.css": "/hatabun/static/css/main.7d2d19d2.css",
     "main.js": "/hatabun/static/js/main.b143aeac.js",
     "static/js/787.ca25a186.chunk.js": "/hatabun/static/js/787.ca25a186.chunk.js",
     "static/media/menu1.png": "/hatabun/static/media/menu1.1c60dcdd86819ef34451.png",
     "static/media/menu2.png": "/hatabun/static/media/menu2.556442d8344db569b387.png",
     "static/media/tabun-logo.png": "/hatabun/static/media/tabun-logo.c529e464d2fad0525b6e.png",
     "index.html": "/hatabun/index.html",
-    "main.74ab4ee2.css.map": "/hatabun/static/css/main.74ab4ee2.css.map",
+    "main.7d2d19d2.css.map": "/hatabun/static/css/main.7d2d19d2.css.map",
     "main.b143aeac.js.map": "/hatabun/static/js/main.b143aeac.js.map",
     "787.ca25a186.chunk.js.map": "/hatabun/static/js/787.ca25a186.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74ab4ee2.css",
+    "static/css/main.7d2d19d2.css",
     "static/js/main.b143aeac.js"
   ]
 }
