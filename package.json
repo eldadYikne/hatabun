@@ -1,7 +1,7 @@
 {
   "name": "hatabun",
   "version": "0.1.0",
-  "homepage": "https://eldadyikne.github.io/hatabun/",
+  "homepage": "https://eldadyikne.github.io/hatabun",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
